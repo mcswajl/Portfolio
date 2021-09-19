@@ -110,7 +110,7 @@ section {
 
 /* HERO STYLES START */
 .hero {
-  background-image: url('../images/Briar at Country Club.jpg');
+  background-image: url('../images/background.jpg');
   background-size: cover;
   display: flex;
   justify-content: center;
