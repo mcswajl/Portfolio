@@ -1,16 +1,15 @@
-# Run Buddy, Inc
+# Portfolio Page
 
 ## Purpose
-A website that offers fitness training services. 
+A website that is a work in progress, place holder for now. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://mcswajl.github.io/Portfolio/
 
 ## Contribution
-Made with ❤️ by [your name]
-
-### ©️2019 Run Buddy, Inc 
+Made with by Josh McSwain
+### UNCC Coding Bootcamp 2021.
